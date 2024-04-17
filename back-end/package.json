@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node": "^18.20.2"
+  },
+  "name": "doc-master_back-end",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "dev": "nodemon App.js",
+    "start": "node App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoyalShoham/Studies-FinalProject/back-end"
+  },
+  "author": "Shoham Moyal",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
